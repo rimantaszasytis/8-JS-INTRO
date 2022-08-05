@@ -19,3 +19,7 @@ KONCEPTAI:
 mygtuka, pradejo siustis faila, pabaige siustis faila, issiunte uzklausa ir t.t
 6) oop - objektinis programavimas - tai tik "skonio " reikalas
 */
+
+console.log('Labas, ka tu?')
+console.log('861027857')
+console.log('Man yra',99,'metai')
